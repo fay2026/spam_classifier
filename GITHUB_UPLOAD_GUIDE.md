@@ -1,7 +1,7 @@
 # 📤 GitHub Upload Guide
 
 ## 🎯 Goal
-Upload your spam classifier project to: `https://github.com/code50/195839303`
+Upload your spam classifier project to: `https://github.com/fay2026/spam_classifier`
 
 ## 🚀 Method 1: Automated Script (Recommended)
 
@@ -37,7 +37,7 @@ git add .
 git commit -m "🚀 Initial commit: GPT-based SMS Spam Classifier (97.49% accuracy)"
 
 # Add your GitHub repository
-git remote add origin https://github.com/code50/195839303.git
+git remote add origin https://github.com/fay2026/spam_classifier.git
 
 # Set main branch
 git branch -M main
@@ -79,7 +79,7 @@ gh auth login
 - [x] `.gitignore` (excludes unnecessary files)
 
 ✅ **Repository Information:**
-- **URL**: https://github.com/code50/195839303
+- **URL**: https://github.com/fay2026/spam_classifier
 - **Accuracy**: 97.49%
 - **Status**: Production Ready
 
@@ -116,7 +116,7 @@ Once uploaded, your repository will include:
 ## ✅ Verification
 
 After upload, verify by visiting:
-- **Repository**: https://github.com/code50/195839303
+- **Repository**: https://github.com/fay2026/spam_classifier
 - **README**: Should show professional project description
 - **Files**: All files should be present and accessible
 

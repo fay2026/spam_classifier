@@ -35,7 +35,7 @@ git commit -m "🚀 Initial commit: GPT-based SMS Spam Classifier (97.49% accura
 # Add remote origin (replace with your actual GitHub repo URL)
 echo "🔗 Adding remote origin..."
 git remote remove origin 2>/dev/null || true
-git remote add origin https://github.com/code50/195839303.git
+git remote add origin https://github.com/fay2026/spam_classifier.git
 
 # Create main branch if it doesn't exist
 git branch -M main
@@ -48,7 +48,7 @@ git push -u origin main
 echo ""
 echo "✅ Upload complete!"
 echo "🌐 Your repository should now be available at:"
-echo "   https://github.com/code50/195839303"
+echo "   https://github.com/fay2026/spam_classifier"
 echo ""
 echo "📋 Next steps:"
 echo "1. Visit your GitHub repository"

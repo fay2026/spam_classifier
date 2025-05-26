@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-orange)](https://pytorch.org)
-[![Accuracy](https://img.shields.io/badge/Accuracy-97.49%25-green)](https://github.com/code50/195839303)
+[![Accuracy](https://img.shields.io/badge/Accuracy-97.49%25-green)](https://github.com/fay2026/spam_classifier)
 
 A production-ready SMS spam classifier built using a modified GPT architecture, optimized for CPU training on Mac systems. Achieves **97.49% test accuracy** with efficient training in under 3 minutes.
 
@@ -29,8 +29,8 @@ A production-ready SMS spam classifier built using a modified GPT architecture, 
 
 ### Installation
 ```bash
-git clone https://github.com/code50/195839303.git
-cd 195839303
+git clone https://github.com/fay2026/spam_classifier.git
+cd spam_classifier
 pip install -r requirements.txt
 ```
 
