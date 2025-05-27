@@ -141,4 +141,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Created**: 2024  
 **Status**: Production Ready  
 **Accuracy**: 97.49%  
-**Training Time**: <3 minutes on Mac CPU 
+**Training Time**: <3 minutes on Mac CPU
